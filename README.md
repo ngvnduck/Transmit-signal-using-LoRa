@@ -33,7 +33,7 @@ Small project using LoRa modules and Arduino Uno to transmit temperature, humidi
         MISO	                  D12
         MOSI	                  D11
         RST	                    D9
-     **LCD 1602	**            **Arduino Uno**
+     **LCD 1602**            **Arduino Uno**
         GND	                    GND
         VDD	                    5V
         VO	                    Rheostat's 2nd pin
