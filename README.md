@@ -2,7 +2,7 @@
 
 Small project using LoRa modules and Arduino Uno to transmit temperature, humidity signal from sensor to a LCD.
 
-- Wiring for transmitter:
+- Wiring for transmitter module:
   
   ![image](https://github.com/ngvnduck/Transmit-signal-using-LoRa/assets/119344467/9e56fca9-8529-4cd4-9241-8a51541a060a)
 
@@ -20,7 +20,7 @@ Small project using LoRa modules and Arduino Uno to transmit temperature, humidi
         GND	                    GND
         DATA	                  A0
 
-- Wiring for receiver:
+- Wiring for receiver module:
 
   ![image](https://github.com/ngvnduck/Transmit-signal-using-LoRa/assets/119344467/8e51b9f1-b882-4f53-812b-26f232379643)
 
